@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.scss';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/navbar/Navbar';
 import Categories from './pages/Categories';
